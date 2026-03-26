@@ -1,0 +1,18 @@
+* {
+      font-family: 'Open Sans', sans-serif !important;
+}
+
+
+    html, body {
+      height: 100%;
+      margin: 0;
+      overflow-x: hidden;
+      background: #fff;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 400;
+      
+    }
+ .form-control::placeholder {
+         color: #CFCFCF;
+          font-size: 12px; 
+        }
